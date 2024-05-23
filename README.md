@@ -34,6 +34,10 @@ In this process, I Extract data from a PDF using Microsoft Power Query’s extra
 
     ![](/assets/img/Picture5.png)
 
+   [Download .twbx file](/downloads/Araxa XCO M Race Analysis - Kirk Brown.twbx)
+   
+   [Download .xlsx file](downloads/Araxa XCO M Race Analysis ETL 5.22.24.xlsx)
+
 ## Education
 Indiana University of Pennsylvania
 
