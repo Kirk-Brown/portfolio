@@ -14,7 +14,7 @@ In this process, I Extract data from a PDF using Microsoft Power Query’s extra
 
 1.	Download PDF
 
-   (/assets/img/Picture1.png)
+   !(/assets/img/Picture1.png)
  
 3.	Extract Data using Microsoft Power Query
  
