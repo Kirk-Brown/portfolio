@@ -1,5 +1,6 @@
 # Kirk Brown
   [LinkedIn](https://www.linkedin.com/in/kirk-brown-51a830a7/)
+  
   Seeking Data Analyst Opportunities
 
 #### Technical Skills: Excel, Data Anlysis, Tableau, Basic SQL
