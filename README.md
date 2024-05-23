@@ -1,10 +1,8 @@
-# Kirk Brown
+# Kirk Brown [LinkedIn](https://www.linkedin.com/in/kirk-brown-51a830a7/)
 
 #### Technical Skills: Excel, Data Anlysis, Tableau, Basic SQL
 
   Seeking Data Analyst Opportunities
-
-  [LinkedIn](https://www.linkedin.com/in/kirk-brown-51a830a7/)
 
 ## Education
 Indiana University of Pennsylvania
