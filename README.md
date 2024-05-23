@@ -14,13 +14,18 @@ In this process, I Extract data from a PDF using Microsoft Power Query’s extra
 
 1. Download PDF
 ![](/assets/img/Picture1.png)
+
 2. Extract Data using Microsoft Power Query
 ![](/assets/img/Picture2.png)
+
 3. Transform Data using Microsoft Power Query
 ![](/assets/img/Picture3.png)
+
 4. Convert times to seconds using text function, calculate time gaps using a running sum and MIN functions
+
 5. Copy and Paste columns needed for visualizations
 ![](/assets/img/Picture4.png)
+
 6. Visualize Data using Tableau
 ![](/assets/img/Picture5.png)
 
