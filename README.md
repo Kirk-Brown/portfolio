@@ -5,19 +5,6 @@
 
   Seeking Data Analyst Opportunities
 
-## Education
-Indiana University of Pennsylvania
-B.S. Business Administration, 2010-2014
-
-## Work Experience
-**Strategic Sourcing Specialist, JLL (_July 2022 - Present_)**
-- Lead sourcing efforts for East region on large tech firm account.
-- Successfully onboard, manage, and contract supplier base of over 400 suppliers through account transition process, covering any potential gaps in service delivery.
-- Negotiate and execute new supplier agreements, ensuring all contractual terms and conditions comply with corporate Legal and Risk Management policies.
-- Maintain deep understanding of corporate processes and IT and data management systems to aid in operational success, troubleshoot issues at the account level, and train colleagues.
-- Conduct RFx events to standardize service delivery and meet target cost savings goals.
-
-
 ## Projects
 ### Mountain Bike World Cup ETL and Race Analysis with Tableau
 [Tableau Public Visualization](https://public.tableau.com/app/profile/kirk.brown6372/viz/AraxaXCOMRaceAnalysis-KirkBrown/Dashboard1?publish=yes)
@@ -37,3 +24,15 @@ In this process, I Extract data from a PDF using Microsoft Power Query’s extra
 5.	Copy and Paste columns needed for visualizations.
  
 6.	Visualize Data using Tableau
+
+## Education
+Indiana University of Pennsylvania
+B.S. Business Administration, 2010-2014
+
+## Work Experience
+**Strategic Sourcing Specialist, JLL (_July 2022 - Present_)**
+- Lead sourcing efforts for East region on large tech firm account.
+- Successfully onboard, manage, and contract supplier base of over 400 suppliers through account transition process, covering any potential gaps in service delivery.
+- Negotiate and execute new supplier agreements, ensuring all contractual terms and conditions comply with corporate Legal and Risk Management policies.
+- Maintain deep understanding of corporate processes and IT and data management systems to aid in operational success, troubleshoot issues at the account level, and train colleagues.
+- Conduct RFx events to standardize service delivery and meet target cost savings goals.
