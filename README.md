@@ -7,8 +7,8 @@
   [LinkedIn](https://www.linkedin.com/in/kirk-brown-51a830a7/)
 
 ## Education
-- Indiana University of Pennsylvania
-  B.S. Business Administration, 2010-2014
+Indiana University of Pennsylvania
+B.S. Business Administration, 2010-2014
 
 ## Work Experience
 **Strategic Sourcing Specialist, JLL (_July 2022 - Present_)**
