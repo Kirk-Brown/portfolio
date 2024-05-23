@@ -10,7 +10,7 @@
 
 [Source Data](https://ucimtbworldseries.com/results/event/araxa/2024)
 
-In this process, I Extract data from a PDF using Microsoft Power Query’s extract from PDF function. Then, I Transform the data into a more readable and usable format using a series of data manipulation techniques. After that, I load the data into Tableau and visualize the data in two different charts, a line chart “race”, and the overall time differences in seconds from the winner. This process can be duplicated to analyze the 60 different Cross-Country Olympic and Cross-Country Short-Track race analysis files generated in the past two years.
+In this process, I Extract data from a PDF using Microsoft Power Query’s extract from PDF function. Then, I Transform the data into a more readable and usable format using a series of data manipulation techniques. After that, I Load the data into Tableau and visualize the data in two different charts; a line chart “race”, and the overall time differences in seconds from the winner. This process can be duplicated to analyze the 60 different Cross-Country Olympic and Cross-Country Short-Track race analysis files generated in the past two years.
 
 1. Download PDF
 ![](/assets/img/Picture1.png)
