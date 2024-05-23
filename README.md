@@ -1,4 +1,5 @@
-# Kirk Brown [LinkedIn](https://www.linkedin.com/in/kirk-brown-51a830a7/)
+# Kirk Brown
+[LinkedIn](https://www.linkedin.com/in/kirk-brown-51a830a7/)
 
 #### Technical Skills: Excel, Data Anlysis, Tableau, Basic SQL
 
