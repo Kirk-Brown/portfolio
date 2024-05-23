@@ -51,11 +51,16 @@ B.S. Business Administration
 - Closely participated with the client and JLL team to drive both immediate and sustained benefits to the client regarding sourcing operations and managing supplier partners.
 
 **Purchasing and Operations Analyst, Pivot Cycles (_August 2018 - June 2020_)**
-- Lead sourcing efforts for East region on large tech firm account.
-- Successfully onboard, manage, and contract supplier base of over 400 suppliers through account transition process, covering any potential gaps in service delivery.
-- Negotiate and execute new supplier agreements, ensuring all contractual terms and conditions comply with corporate Legal and Risk Management policies.
-- Maintain deep understanding of corporate processes and IT and data management systems to aid in operational success, troubleshoot issues at the account level, and train colleagues.
-- Conduct RFx events to standardize service delivery and meet target cost savings goals.
+- Purchased components based on inventory levels and sales forecast with approval limit of $250,000.
+- Managed inventory levels for assigned items with lead times ranging from 60-150 days.
+- Responsible for item number and BOM creation and maintenance in Microsoft Dynamics GP.
+- Communicated with vendors to arrange shipments and ensure timely delivery of goods.
+- Worked with accounting to release timely payment to vendors and resolve invoice discrepancies.
+- Reviewed and managed open orders and vendor performance to identify potential vendor risks.
+- Used advanced excel features and functions on a daily basis to analyze large volumes of data.
+- Developed tools and macros to aid in the automation of regularly performed tasks.
+- Read and interpreted technical engineering drawings; worked with engineers to develop detailed BOMs.
+
 
 ## Certifications
 - Microsoft Certified: Azure Data Fundamentals
