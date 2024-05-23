@@ -20,22 +20,23 @@ In this process, I Extract data from a PDF using Microsoft Power Query’s extra
 
    ![](/assets/img/Picture2.png)
  
-4.	Transform Data using Microsoft Power Query
+3.	Transform Data using Microsoft Power Query
 
    ![](/assets/img/Picture3.png)
  
-6.	Convert times to seconds using text function, calculate time gaps using a running sum and MIN functions.
+4.	Convert times to seconds using text function, calculate time gaps using a running sum and MIN functions.
 
-7.	Copy and Paste columns needed for visualizations.
+5.	Copy and Paste columns needed for visualizations.
 
    ![](/assets/img/Picture4.png)
  
-9.	Visualize Data using Tableau
+6.	Visualize Data using Tableau
 
     ![](/assets/img/Picture5.png)
 
 ## Education
 Indiana University of Pennsylvania
+
 B.S. Business Administration
 
 ## Work Experience
@@ -62,9 +63,13 @@ B.S. Business Administration
 
 ## Certifications
 - Microsoft Certified: Azure Data Fundamentals
+
   Certificate Number: [I628-6828](https://www.credly.com/badges/d5653fc0-3eda-4dd9-8a73-bc2e8ad15509/public_url)
+  
 - The Complete SQL Bootcamp: Go from Zero to Hero, Udemy
+
   Certificate Number: [UC-1ac10097-334a-498a-b399-34368843fc1f](https://www.udemy.com/certificate/UC-1ac10097-334a-498a-b399-34368843fc1f/)
+
 - Six Sigma Green Belt, Six Sigma Global Institute
 
 
