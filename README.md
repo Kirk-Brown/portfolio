@@ -1,5 +1,4 @@
 # Kirk Brown
-[LinkedIn](https://www.linkedin.com/in/kirk-brown-51a830a7/)
 
 #### Technical Skills: Excel, Data Anlysis, Tableau, Basic SQL
 
@@ -36,3 +35,5 @@ B.S. Business Administration, 2010-2014
 - Negotiate and execute new supplier agreements, ensuring all contractual terms and conditions comply with corporate Legal and Risk Management policies.
 - Maintain deep understanding of corporate processes and IT and data management systems to aid in operational success, troubleshoot issues at the account level, and train colleagues.
 - Conduct RFx events to standardize service delivery and meet target cost savings goals.
+
+[LinkedIn](https://www.linkedin.com/in/kirk-brown-51a830a7/)
