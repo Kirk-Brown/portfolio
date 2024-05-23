@@ -1,11 +1,8 @@
-# Kirk Brown
-
-#### Technical Skills: Excel, Data Anlysis, Tableau, Basic SQL
-
-  Seeking Data Analyst Opportunities
-
 ## Projects
 ### Mountain Bike World Cup ETL and Race Analysis with Tableau
+
+Technical Skills: Excel, Power Query, Data Anlysis, Tableau
+
 [Tableau Public Visualization](https://public.tableau.com/app/profile/kirk.brown6372/viz/AraxaXCOMRaceAnalysis-KirkBrown/Dashboard1?publish=yes)
 
 [Source Data](https://ucimtbworldseries.com/results/event/araxa/2024)
@@ -70,6 +67,3 @@ B.S. Business Administration
   Certificate Number: [UC-1ac10097-334a-498a-b399-34368843fc1f](https://www.udemy.com/certificate/UC-1ac10097-334a-498a-b399-34368843fc1f/)
 
 - Six Sigma Green Belt, Six Sigma Global Institute
-
-
-[LinkedIn](https://www.linkedin.com/in/kirk-brown-51a830a7/)
