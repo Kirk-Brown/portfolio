@@ -1,5 +1,5 @@
 # Kirk Brown
-  [Publication](https://www.linkedin.com/in/kirk-brown-51a830a7/)
+  [LinkedIn](https://www.linkedin.com/in/kirk-brown-51a830a7/)
   Seeking Data Analyst Opportunities
 
 #### Technical Skills: Excel, Data Anlysis, Tableau, Basic SQL
@@ -19,8 +19,8 @@
 
 ## Projects
 ### Mountain Bike World Cup ETL and Race Analysis with Tableau
-Tableau Public Visualization: [Publication](https://public.tableau.com/app/profile/kirk.brown6372/viz/AraxaXCOMRaceAnalysis-KirkBrown/Dashboard1?publish=yes)
-Source Data: [Publication](https://ucimtbworldseries.com/results/event/araxa/2024)
+[Tableau Public Visualization](https://public.tableau.com/app/profile/kirk.brown6372/viz/AraxaXCOMRaceAnalysis-KirkBrown/Dashboard1?publish=yes)
+[Source Data](https://ucimtbworldseries.com/results/event/araxa/2024)
 
 In this process, I Extract data from a PDF using Microsoft Power Query’s extract from PDF function. Then, I Transform the data into a more readable and usable format using a series of data manipulation techniques. After that, I load the data into Tableau and visualize the data in two different charts, a line chart “race”, and the overall time differences in seconds from the winner. This process can be duplicated to analyze the 60 different Cross-Country Olympic and Cross-Country Short-Track race analysis files generated in the past two years.
 
