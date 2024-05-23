@@ -13,16 +13,18 @@
 In this process, I Extract data from a PDF using Microsoft Power Query’s extract from PDF function. Then, I Transform the data into a more readable and usable format using a series of data manipulation techniques. After that, I load the data into Tableau and visualize the data in two different charts, a line chart “race”, and the overall time differences in seconds from the winner. This process can be duplicated to analyze the 60 different Cross-Country Olympic and Cross-Country Short-Track race analysis files generated in the past two years.
 
 1.	Download PDF
- 
-2.	Extract Data using Microsoft Power Query
- 
-3.	Transform Data using Microsoft Power Query
- 
-4.	Convert times to seconds using text function, calculate time gaps using a running sum and MIN functions.
 
-5.	Copy and Paste columns needed for visualizations.
+   (/assets/img/Picture1.png)
  
-6.	Visualize Data using Tableau
+3.	Extract Data using Microsoft Power Query
+ 
+4.	Transform Data using Microsoft Power Query
+ 
+5.	Convert times to seconds using text function, calculate time gaps using a running sum and MIN functions.
+
+6.	Copy and Paste columns needed for visualizations.
+ 
+7.	Visualize Data using Tableau
 
 ## Education
 Indiana University of Pennsylvania
