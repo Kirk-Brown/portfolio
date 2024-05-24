@@ -1,7 +1,7 @@
 ## Projects
 ### Mountain Bike World Cup ETL and Race Analysis with Tableau
 
-Technical Skills: Excel, Power Query, Data Anlysis, Tableau
+Technical Skills: Excel, Power Query, Data Analysis, Tableau
 
 [Tableau Public Visualization](https://public.tableau.com/app/profile/kirk.brown6372/viz/AraxaXCOMRaceAnalysis-KirkBrown/Dashboard1?publish=yes)
 
