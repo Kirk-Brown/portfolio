@@ -36,7 +36,15 @@ Indiana University of Pennsylvania
 B.S. Business Administration
 
 ## Work Experience
-**Strategic Sourcing Specialist, JLL (_July 2022 - Present_)**
+**Reporting and Data Analyst II, Federated Hermes (_October 2024 - Present_)**
+- Use Power BI to build and manage financial reports and dashboards for executive leadership.
+- Create and manage Power BI semantic models.
+- Develop business measures and calculations using DAX.
+- Prepare and distribute standard financial reports on a scheduled basis.
+- Automated ETL process using Power Automate, SharePoint and Power Query.
+- Completed a data normalization project that combines several monthly files into one normalized data set.
+
+**Strategic Sourcing Specialist, JLL (_July 2022 - October 2024_)**
 - Lead sourcing efforts for East region on large tech firm account.
 - Successfully onboard, manage, and contract supplier base of over 400 suppliers through account transition process, covering any potential gaps in service delivery.
 - Negotiate and execute new supplier agreements, ensuring all contractual terms and conditions comply with corporate Legal and Risk Management policies.
@@ -53,7 +61,7 @@ B.S. Business Administration
 **Purchasing and Operations Analyst, Pivot Cycles (_August 2018 - June 2020_)**
 - Purchased components based on inventory levels and sales forecast with approval limit of $250,000.
 - Managed inventory levels for assigned items with lead times ranging from 60-150 days.
-- Responsible for item number and BOM creation and maintenance in Microsoft Dynamics GP.
+- Responsible for item number and BOM creation in Microsoft Dynamics GP.
 - Communicated with vendors to arrange shipments and ensure timely delivery of goods.
 - Worked with accounting to release timely payment to vendors and resolve invoice discrepancies.
 - Reviewed and managed open orders and vendor performance to identify potential vendor risks.
@@ -63,6 +71,10 @@ B.S. Business Administration
 
 
 ## Certifications
+- Alteryx Designer Core Certification
+
+  Certificate Number: https://www.credly.com/badges/a316de55-e228-4ae5-9597-4b1758a93c81/public_url
+
 - Microsoft Certified: Azure Data Fundamentals
 
   Certificate Number: [I628-6828](https://www.credly.com/badges/d5653fc0-3eda-4dd9-8a73-bc2e8ad15509/public_url)
